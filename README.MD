@@ -1,7 +1,7 @@
 # Welcome to ACME Tech Enterprises
 We will first make an app where we will make buttons appear using vanilla JS.
 
-##We have two parts to this interview:
+## We have two parts to this interview:
 - Vanilla Dom manipulation
 - Frontend Questions
 
